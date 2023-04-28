@@ -4,6 +4,8 @@ h1{
 body{ 
     font-family:'poppins, sans-serif'; 
 }
+
 footer{
     background-color: black;
-}
+    padding: 15px 0;
+    text-align: center;
